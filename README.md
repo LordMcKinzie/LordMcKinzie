@@ -1,4 +1,4 @@
-### Languages and frameworks i work/familiar with :
+### Languages and frameworks im working/familiar with :
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,nodejs,express,cs,dart,flutter,java,py,mysql,r)](https://skillicons.dev)
 
 ### My Skills :
