@@ -1,5 +1,9 @@
-### Hi there 👋
+### Languages and frameworks i work/familiar with :
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,nodejs,express,cs,dart,flutter,java,py,mysql,r)](https://skillicons.dev)
+
+
+
+
 <!--
 **LordMcKinzie/LordMcKinzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
