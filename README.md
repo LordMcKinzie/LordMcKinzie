@@ -1,13 +1,13 @@
 ### Languages and frameworks i work/familiar with :
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,nodejs,express,cs,dart,flutter,java,py,mysql,r)](https://skillicons.dev)
 
- <br>
-## currently working on : 
+
+### currently working on : 
 - Personal Portfolio Website
 - AI Asistant
 
 
-## currently learning :
+### currently learning :
 -VueJS
 -Rust
 
