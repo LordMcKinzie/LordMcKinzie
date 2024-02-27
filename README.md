@@ -8,8 +8,8 @@
 
 
 ### currently learning :
--VueJS
--Rust
+- VueJS
+- Rust
 
 
 <!--
