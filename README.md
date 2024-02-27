@@ -1,11 +1,22 @@
 ### Languages and frameworks i work/familiar with :
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,nodejs,express,cs,dart,flutter,java,py,mysql,r)](https://skillicons.dev)
 
+### My Skills :
+- Data and Code Analysis
+- FrontEnd Designing and Development
+- Game Devlopment ( Mostly 2D Platformers with Unity Engine)
+- DBA (sort of)
+  
+
+
+
+
+
 
 ### currently working on : 
 - Personal Portfolio Website
 - AI Asistant
-
+- Untitled MetroidVania Game 
 
 ### currently learning :
 - VueJS
