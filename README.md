@@ -1,7 +1,11 @@
 ### Languages and frameworks i work/familiar with :
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,nodejs,express,cs,dart,flutter,java,py,mysql,r)](https://skillicons.dev)
+
+ <br>
+ 
+ 
  My Projects Include: 
- -BloodBankManagmentSystem([!(https://skillicons.dev/icons?i=cs,mysql,r)](https://skillicons.dev))
+ -BloodBankManagmentSystem([![Implemented By](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev)
 
 
 
