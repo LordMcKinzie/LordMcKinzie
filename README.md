@@ -16,7 +16,7 @@
 ### currently working on : 
 - Personal Portfolio Website
 - AI Asistant
-- Untitled MetroidVania Game 
+- (Echoes of the dark castle) A MetroidVania Game 
 
 ### currently learning :
 - VueJS
