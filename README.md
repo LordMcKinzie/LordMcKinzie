@@ -14,13 +14,12 @@
 
 
 ### currently working on : 
-- Personal Portfolio Website
-- AI Asistant
 - (Echoes of the dark castle) A MetroidVania Game 
 
 ### currently learning :
 - VueJS
 - Rust
+-Flutter
 
 
 <!--
