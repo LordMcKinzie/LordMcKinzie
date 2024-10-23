@@ -17,9 +17,9 @@
 - (Echoes of the dark castle) A MetroidVania Game 
 
 ### currently learning :
-- VueJS
+- Flutter
 - Rust
--Flutter
+  
 
 
 <!--
